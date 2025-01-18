@@ -1,0 +1,9 @@
+{
+  "rules": {
+    "indentation": 2,
+    "color-hex-length": "short",
+    "max-empty-lines": 1,
+    "no-duplicate-selectors": true,
+    "block-no-empty": true
+  }
+}
